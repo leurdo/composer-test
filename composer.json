@@ -1,6 +1,7 @@
 {
   "name": "hw3/composer_test",
   "version": "1.0",
+  "type": "mytest",
   "require": {
     "composer/installers": "~1.0"
   }
